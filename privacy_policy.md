@@ -51,5 +51,5 @@ We may update this Privacy Policy from time to time. You will be notified of any
 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact:
 
-Developer: Ashwith Frank
+Developer: Ashwith Frank <br>
 Email: alphaomega.studio98@gmail.com
