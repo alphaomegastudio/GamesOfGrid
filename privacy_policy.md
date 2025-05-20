@@ -1,4 +1,4 @@
-Privacy Policy br
+Privacy Policy <br>
 Effective Date: 20 May 2025
 
 Developer: AlphaOmega Studio (Ashwith Frank)
