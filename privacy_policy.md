@@ -1,9 +1,9 @@
 Privacy Policy <br>
 Effective Date: 20 May 2025
 
-Developer: AlphaOmega Studio (Ashwith Frank)
-Game Name: Games of Grid
-Email: alphaomega.studio98@gmail.com
+Developer: AlphaOmega Studio (Ashwith Frank) <br>
+Game Name: Games of Grid <br>
+Email: alphaomega.studio98@gmail.com <br>
 
 1. Introduction
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect the personal information you provide while using our game. By playing the game, you agree to the terms of this Privacy Policy.
